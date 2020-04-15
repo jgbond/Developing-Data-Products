@@ -1,0 +1,12 @@
+name: devdataproj
+title: devdataproj
+username:
+account: jgbond
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2120558
+bundleId: 3015684
+url: https://jgbond.shinyapps.io/devdataproj/
+when: 1586936354.55555
+asMultiple: FALSE
+asStatic: FALSE
